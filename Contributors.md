@@ -5,3 +5,4 @@
 - [Tiago Barros](https://github.com/tiagobpires)
 - [Maria Eduarda Gomes Kuhn](https://github.com/DKuhn29)
 - [Maria Luiza Queiroz](https://github.com/maluqueirozz)
+- [Fernanda Helena](https://github.com/nandahelena)
