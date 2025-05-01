@@ -7,3 +7,4 @@
 - [Maria Luiza Queiroz](https://github.com/maluqueirozz)
 - [Gabriel Masterson Paiva Nascimento](https://github.com/gabrieldotmasterson)
 - [Fernanda Helena](https://github.com/nandahelena)
+- [Heloise Martins Barros](https://github.com/helomaster)
