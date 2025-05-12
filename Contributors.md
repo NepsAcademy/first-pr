@@ -8,3 +8,4 @@
 - [Gabriel Masterson Paiva Nascimento](https://github.com/gabrieldotmasterson)
 - [Fernanda Helena](https://github.com/nandahelena)
 - [Heloise Martins Barros](https://github.com/helomaster)
+- [Arthur Da Silva Santos](https://github.com/Thurar23)
