@@ -8,3 +8,4 @@
 - [Gabriel Masterson Paiva Nascimento](https://github.com/gabrieldotmasterson)
 - [Fernanda Helena](https://github.com/nandahelena)
 - [Heloise Martins Barros](https://github.com/helomaster)
+- [João Gabriel Kuschel Kuspske](https://github.com/joao-Gabriel-Kuschel-Kupske/first-pr)
