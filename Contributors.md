@@ -9,3 +9,4 @@
 - [Fernanda Helena](https://github.com/nandahelena)
 - [Heloise Martins Barros](https://github.com/helomaster)
 - [Vitor Hugo Antunes Gonçalves](https://github.com/vitor-ash)
+- [Arthur Da Silva Santos](https://github.com/Thurar23)
