@@ -8,4 +8,7 @@
 - [Gabriel Masterson Paiva Nascimento](https://github.com/gabrieldotmasterson)
 - [Fernanda Helena](https://github.com/nandahelena)
 - [Heloise Martins Barros](https://github.com/helomaster)
+- [Vitor Hugo Antunes Gonçalves](https://github.com/vitor-ash)
+- [Arthur Da Silva Santos](https://github.com/Thurar23)
+- [João Gabriel Kuschel Kuspske](https://github.com/joao-Gabriel-Kuschel-Kupske)
 - [Nathan dos Santos Rossi](https://github.com/N4than-Rossi)
