@@ -12,3 +12,4 @@
 - [Arthur Da Silva Santos](https://github.com/Thurar23)
 - [João Gabriel Kuschel Kuspske](https://github.com/joao-Gabriel-Kuschel-Kupske)
 - [Cayme Amanda Flach](https://github.com/caymee)
+- [Eloá MAchado Duarte](https://github.com/Eloa-Duarte)
