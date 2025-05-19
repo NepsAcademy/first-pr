@@ -13,3 +13,4 @@
 - [João Gabriel Kuschel Kuspske](https://github.com/joao-Gabriel-Kuschel-Kupske)
 - [Cayme Amanda Flach](https://github.com/caymee)
 - [Eloá MAchado Duarte](https://github.com/Eloa-Duarte)
+- [Amanda Yuna Souza Lima](https://github.com/BeeyWasser)
