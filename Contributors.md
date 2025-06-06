@@ -16,4 +16,5 @@
 - [Amanda Yuna Souza Lima](https://github.com/BeeyWasser)
 - [Pedro Henrique C. Francisco](https://github.com/mine-tech-oficial)
 - [Nathan dos Santos Rossi](https://github.com/N4than-Rossi)
-- [Ant�nio Martins de Melo Santos](https://github.com/oAntoniomartinss)
+- [Antônio Martins de Melo Santos](https://github.com/oAntoniomartinss)
+- [Vinícius Knop Gomes](https://github.com/ViniciusKnop01)
