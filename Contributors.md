@@ -20,3 +20,4 @@
 - [Matheus Bessa Pereira](https://github.com/Matheus2563)
 - [Antônio Martins de Melo Santos](https://github.com/oAntoniomartinss)
 - [Vinícius Knop Gomes](https://github.com/ViniciusKnop01)
+- [Amanda Sarmento da Silva](https://github.com/amanda-sarmento)
