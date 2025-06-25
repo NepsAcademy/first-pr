@@ -18,6 +18,6 @@
 - [Nathan dos Santos Rossi](https://github.com/N4than-Rossi)
 - [João Pedro Campos Sousa](https://github.com/Joaopedro01dev)
 - [Matheus Bessa Pereira](https://github.com/Matheus2563)
-- [Antônio Martins de Melo Santos](https://github.com/oAntoniomartinss)
+- [Antônio Martins de Melo Santos](https://github.com/antoniomartinsms)
 - [Vinícius Knop Gomes](https://github.com/ViniciusKnop01)
 - [Amanda Sarmento da Silva](https://github.com/amanda-sarmento)
