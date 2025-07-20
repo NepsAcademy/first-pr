@@ -21,3 +21,4 @@
 - [Antônio Martins de Melo Santos](https://github.com/antoniomartinsms)
 - [Vinícius Knop Gomes](https://github.com/ViniciusKnop01)
 - [Amanda Sarmento da Silva](https://github.com/amanda-sarmento)
+- [Bruno Gomes](https://github.com/BrunoGomes-Dev)
