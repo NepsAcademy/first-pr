@@ -24,3 +24,4 @@
 - [Bruno Gomes](https://github.com/BrunoGomes-Dev)
 - [Ágata Yoon Faria de Lima](https://github.com/aga-yoon111)
 - [Arthur Milander](https://github.com/Square-cpu)
+- [Felipe de Carvalho Hesse](https://github.com/FelipePoter)
