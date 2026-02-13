@@ -24,5 +24,6 @@
 - [Bruno Gomes](https://github.com/BrunoGomes-Dev)
 - [Ágata Yoon Faria de Lima](https://github.com/aga-yoon111)
 - [Arthur Milander](https://github.com/Square-cpu)
+- [Diego Evaristo](https://github.com/foo8664)
 - [Levi Tonkonoh](https://github.com/leviton11)
 - [Vitor Thomaz](https://github.com/vitor-th)
