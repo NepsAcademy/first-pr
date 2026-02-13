@@ -25,3 +25,4 @@
 - [Ágata Yoon Faria de Lima](https://github.com/aga-yoon111)
 - [Arthur Milander](https://github.com/Square-cpu)
 - [Levi Tonkonoh](https://github.com/leviton11)
+- [Vitor Thomaz](https://github.com/vitor-th)
