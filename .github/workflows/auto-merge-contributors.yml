@@ -1,0 +1,108 @@
+name: Merge contributors
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+    branches: [main]
+
+# Process one pull request at a time, keeping the others in line.
+concurrency:
+  group: merge-contributors
+  queue: max
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  FILE: Contributors.md
+  PR: ${{ github.event.pull_request.number }}
+  AUTHOR: ${{ github.event.pull_request.user.login }}
+  LABEL: ${{ github.event.pull_request.head.label }}
+  GH_TOKEN: ${{ github.token }}
+  GH_REPO: ${{ github.repository }}
+
+jobs:
+  merge:
+    # Drafts and maintainer pull requests are reviewed by hand.
+    if: >-
+      !github.event.pull_request.draft &&
+      !contains(fromJSON('["OWNER", "MEMBER", "COLLABORATOR"]'), github.event.pull_request.author_association)
+    runs-on: ubuntu-latest
+    steps:
+      # pull_request_target has write access, so the pull request code is
+      # only fetched and compared, never checked out or executed.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Validate
+        id: validate
+        run: |
+          git fetch --quiet origin "pull/$PR/head:pr"
+          changes() { git diff --unified=0 --ignore-cr-at-eol origin/main...pr -- "$FILE"; }
+          added=$(changes | sed -n '/^+++ /d; s/^+//p' | sed 's/[[:space:]]*$//')
+          removed=$(changes | sed -n '/^--- /d; /^-/p')
+          errors="$RUNNER_TEMP/errors.md"
+          error() { echo "- $1" >> "$errors"; }
+
+          [ "$(git diff --name-only origin/main...pr)" = "$FILE" ] || error "Only \`$FILE\` may be changed."
+          [ -z "$removed" ] || error "Existing lines must not be changed or removed."
+
+          if [ "$(grep -c . <<< "$added")" -ne 1 ]; then
+            error "Exactly one line must be added."
+          elif ! grep -Eiq '^- \[[^][]+\]\(https://(www\.)?github\.com/[a-z0-9-]+/?\)$' <<< "$added"; then
+            error "The new line does not follow the expected format."
+          elif ! grep -Eiq "github\.com/$AUTHOR/?\)$" <<< "$added"; then
+            error "The link must point to your own GitHub profile."
+          fi
+          if grep -Eiq "github\.com/$AUTHOR/?\)" "$FILE"; then
+            error "You are already on the contributors list."
+          fi
+
+          echo "$added" > "$RUNNER_TEMP/line.md"
+          [ -f "$errors" ] || echo "valid=true" >> "$GITHUB_OUTPUT"
+
+      - name: Merge
+        id: merge
+        if: steps.validate.outputs.valid == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Record the pull request as merged, but build the file from main plus
+          # the new line, so contributors never run into merge conflicts.
+          git merge --no-ff --no-commit --strategy ours pr
+          cat "$RUNNER_TEMP/line.md" >> "$FILE"
+          git add "$FILE"
+          git commit --quiet -m "Merge pull request #$PR from $LABEL" -m "Add $AUTHOR to $FILE"
+          git push origin HEAD:main
+
+      - name: Comment
+        if: always() && steps.validate.outcome == 'success'
+        env:
+          MERGED: ${{ steps.merge.outcome == 'success' }}
+        run: |
+          errors="$RUNNER_TEMP/errors.md"
+          body="$RUNNER_TEMP/comment.md"
+          if [ "$MERGED" = true ]; then
+            echo "✅ All set, @$AUTHOR! Your name is now in \`$FILE\`. Congrats on your first pull request! 🎉" > "$body"
+          elif [ -f "$errors" ]; then
+            {
+              echo "❌ Hi @$AUTHOR! Almost there, but your pull request needs a few changes:"
+              echo
+              cat "$errors"
+              echo
+              echo "Your line should look like this:"
+              echo
+              echo '```'
+              echo "- [Your Full Name](https://github.com/$AUTHOR)"
+              echo '```'
+              echo
+              echo "Edit \`$FILE\` on your branch, then commit and push. I'll check again automatically. 🚀"
+            } > "$body"
+          else
+            echo "⚠️ Your pull request looks good, but I couldn't merge it automatically. The course team will take a look." > "$body"
+          fi
+          gh pr comment "$PR" --edit-last --create-if-none --body-file "$body"
+          [ "$MERGED" = true ]
