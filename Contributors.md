@@ -33,3 +33,4 @@
 - [Eliel Brito da Silva](https://github.com/DevQualquer1)
 - [Bernardo Gomes Quixaba Silva](https://github.com/quixaba-dev)
 - [Pedro Moisés de Andrade Soares](https://github.com/7pedrich)
+- [Thiago Andrade Viana](https://github.com/elfisicoooo)
