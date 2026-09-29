@@ -29,3 +29,4 @@
 - [Levi Tonkonoh](https://github.com/leviton11)
 - [Vitor Thomaz](https://github.com/vitor-th)
 - [Isabel Vitória Miranda](https://github.com/isabebelmiranda)
+- [Mayara Sampaio Martins](https://github.com/Byui09)
