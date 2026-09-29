@@ -28,3 +28,4 @@
 - [Diego Evaristo](https://github.com/foo8664)
 - [Levi Tonkonoh](https://github.com/leviton11)
 - [Vitor Thomaz](https://github.com/vitor-th)
+- [Isabel Vitória Miranda](https://github.com/isabebelmiranda)
