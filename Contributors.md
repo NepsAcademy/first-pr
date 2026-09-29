@@ -31,3 +31,4 @@
 - [Isabel Vitória Miranda](https://github.com/isabebelmiranda)
 - [Mayara Sampaio Martins](https://github.com/Byui09)
 - [Eliel Brito da Silva](https://github.com/DevQualquer1)
+- [Bernardo Gomes Quixaba Silva](https://github.com/quixaba-dev)
