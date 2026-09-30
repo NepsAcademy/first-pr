@@ -39,3 +39,4 @@
 - [Luis Guilherme Jeremias Nunes da Silva](https://github.com/nunes-xvt)
 - [Gustavo Miranda Brito](https://github.com/gustavomiranda-dev)
 - [Davi Machado Goulart](https://github.com/spino-gmd)
+- [Cauã Mesquita Cevidanes](https://github.com/Br-Zueira)
