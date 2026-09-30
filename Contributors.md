@@ -34,3 +34,4 @@
 - [Bernardo Gomes Quixaba Silva](https://github.com/quixaba-dev)
 - [Pedro Moisés de Andrade Soares](https://github.com/7pedrich)
 - [Thiago Andrade Viana](https://github.com/elfisicoooo)
+- [Maria Karla Montesino Negrin](https://github.com/mkmontesino-glitch)
