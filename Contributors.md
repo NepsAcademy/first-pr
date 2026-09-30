@@ -35,3 +35,4 @@
 - [Pedro Moisés de Andrade Soares](https://github.com/7pedrich)
 - [Thiago Andrade Viana](https://github.com/elfisicoooo)
 - [Maria Karla Montesino Negrin](https://github.com/mkmontesino-glitch)
+- [Cauã Laurentino Lins](https://github.com/calleser)
