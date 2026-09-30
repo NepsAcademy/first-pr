@@ -37,3 +37,4 @@
 - [Maria Karla Montesino Negrin](https://github.com/mkmontesino-glitch)
 - [Cauã Laurentino Lins](https://github.com/calleser)
 - [Luis Guilherme Jeremias Nunes da Silva](https://github.com/nunes-xvt)
+- [Gustavo Miranda Brito](https://github.com/gustavomiranda-dev)
