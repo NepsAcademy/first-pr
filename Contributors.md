@@ -41,3 +41,4 @@
 - [Davi Machado Goulart](https://github.com/spino-gmd)
 - [Cauã Mesquita Cevidanes](https://github.com/Br-Zueira)
 - [Hadassa Favari de Moraes](https://github.com/hadss4)
+- [Diogo Martins Silva](https://github.com/KrystopherLuo)
