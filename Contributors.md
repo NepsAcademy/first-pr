@@ -42,3 +42,4 @@
 - [Cauã Mesquita Cevidanes](https://github.com/Br-Zueira)
 - [Hadassa Favari de Moraes](https://github.com/hadss4)
 - [Diogo Martins Silva](https://github.com/KrystopherLuo)
+- [Felipe Beck Patsche](https://github.com/FelipePatsche)
