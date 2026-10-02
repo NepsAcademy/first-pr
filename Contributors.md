@@ -43,3 +43,4 @@
 - [Hadassa Favari de Moraes](https://github.com/hadss4)
 - [Diogo Martins Silva](https://github.com/KrystopherLuo)
 - [Felipe Beck Patsche](https://github.com/FelipePatsche)
+- [Samuel Henrique Santos calixto](https://github.com/CALIXTO-Samuel)
