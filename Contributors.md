@@ -44,3 +44,4 @@
 - [Diogo Martins Silva](https://github.com/KrystopherLuo)
 - [Felipe Beck Patsche](https://github.com/FelipePatsche)
 - [Samuel Henrique Santos calixto](https://github.com/CALIXTO-Samuel)
+- [Enzo Thumé Pacheco](https://github.com/enzothumepacheco)
