@@ -46,3 +46,4 @@
 - [Samuel Henrique Santos calixto](https://github.com/CALIXTO-Samuel)
 - [Enzo Thumé Pacheco](https://github.com/enzothumepacheco)
 - [Gonçalo Franke Franco](https://github.com/goncalofrankefranco)
+- [Israel Benício Augusto Vaz](https://github.com/israelvaz121)
