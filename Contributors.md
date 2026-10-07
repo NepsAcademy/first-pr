@@ -47,3 +47,4 @@
 - [Enzo Thumé Pacheco](https://github.com/enzothumepacheco)
 - [Gonçalo Franke Franco](https://github.com/goncalofrankefranco)
 - [Israel Benício Augusto Vaz](https://github.com/israelvaz121)
+- [João Gabriel Lanssarini Ramos](https://github.com/JoaoG-Ramos)
