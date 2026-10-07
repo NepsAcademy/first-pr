@@ -47,3 +47,4 @@
 - [Enzo Thumé Pacheco](https://github.com/enzothumepacheco)
 - [Gonçalo Franke Franco](https://github.com/goncalofrankefranco)
 - [Israel Benício Augusto Vaz](https://github.com/israelvaz121)
+- [Mehye Eddin Hassan Ali Ahmad](https://github.com/mehyeeddin)
