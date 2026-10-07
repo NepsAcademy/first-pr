@@ -49,3 +49,4 @@
 - [Israel Benício Augusto Vaz](https://github.com/israelvaz121)
 - [Mehye Eddin Hassan Ali Ahmad](https://github.com/mehyeeddin)
 - [Manuela Farias dos Santos](https://github.com/manuelafsantos)
+- [João Gabriel Lanssarini Ramos](https://github.com/JoaoG-Ramos)
