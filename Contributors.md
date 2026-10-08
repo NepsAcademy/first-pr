@@ -50,3 +50,4 @@
 - [Mehye Eddin Hassan Ali Ahmad](https://github.com/mehyeeddin)
 - [Manuela Farias dos Santos](https://github.com/manuelafsantos)
 - [João Gabriel Lanssarini Ramos](https://github.com/JoaoG-Ramos)
+- [Ravi Petry Schwonke](https://github.com/Ravii-873)
