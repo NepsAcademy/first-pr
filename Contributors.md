@@ -52,3 +52,4 @@
 - [João Gabriel Lanssarini Ramos](https://github.com/JoaoG-Ramos)
 - [Ravi Petry Schwonke](https://github.com/Ravii-873)
 - [Ézio Nascimento Fernandes](https://github.com/ezionf)
+- [Sarah Luz Barros](https://github.com/sarahluzbarros-lang)
