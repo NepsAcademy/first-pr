@@ -55,3 +55,4 @@
 - [Sarah Luz Barros](https://github.com/sarahluzbarros-lang)
 - [Irina Zhou Ye](https://github.com/irinaye0325)
 - [Luiz Felipe de Oliveira Cavalcante](https://github.com/bidux6)
+- [Pietro Almeida](https://github.com/S3rhuman0)
