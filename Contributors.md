@@ -59,3 +59,4 @@
 - [André Angelo Pinto Santos](https://github.com/Angelo17Santos)
 - [Brasilicio Henrique Campos Rêgo](https://github.com/brasilicioh)
 - [Maurício Calvet Lemos do Santos](https://github.com/Mauricio2302)
+- [Henrique Barreto Costa](https://github.com/henriquebrtocosta)
