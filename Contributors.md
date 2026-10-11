@@ -61,3 +61,4 @@
 - [Maurício Calvet Lemos do Santos](https://github.com/Mauricio2302)
 - [Henrique Barreto Costa](https://github.com/henriquebrtocosta)
 - [Guilherme Nogueira Barroso de Mesquita](https://github.com/guimesquitaa)
+- [Miguel Oliveira Santos](https://github.com/migueloliveirasantos)
