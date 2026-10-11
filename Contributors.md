@@ -56,3 +56,4 @@
 - [Irina Zhou Ye](https://github.com/irinaye0325)
 - [Luiz Felipe de Oliveira Cavalcante](https://github.com/bidux6)
 - [Pietro David Amora Almeida](https://github.com/S3rhuman0)
+- [André Angelo Pinto Santos](https://github.com/Angelo17Santos)
