@@ -58,3 +58,4 @@
 - [Pietro David Amora Almeida](https://github.com/S3rhuman0)
 - [André Angelo Pinto Santos](https://github.com/Angelo17Santos)
 - [Brasilicio Henrique Campos Rêgo](https://github.com/brasilicioh)
+- [Maurício Calvet Lemos do Santos](https://github.com/Mauricio2302)
