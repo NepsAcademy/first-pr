@@ -62,3 +62,4 @@
 - [Henrique Barreto Costa](https://github.com/henriquebrtocosta)
 - [Guilherme Nogueira Barroso de Mesquita](https://github.com/guimesquitaa)
 - [Miguel Oliveira Santos](https://github.com/migueloliveirasantos)
+- [Anthony Valentin Nolasco Santos Silva](https://github.com/Anthony-Valentin)
