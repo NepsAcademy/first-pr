@@ -63,3 +63,4 @@
 - [Guilherme Nogueira Barroso de Mesquita](https://github.com/guimesquitaa)
 - [Miguel Oliveira Santos](https://github.com/migueloliveirasantos)
 - [Anthony Valentin Nolasco Santos Silva](https://github.com/Anthony-Valentin)
+- [Cauã Prado Monteiro](https://github.com/Kauan-BRL)
