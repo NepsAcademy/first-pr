@@ -65,3 +65,4 @@
 - [Anthony Valentin Nolasco Santos Silva](https://github.com/Anthony-Valentin)
 - [Matheus Pietro Klein](https://github.com/matheuspklein)
 - [Ricardo Augusto de Lima](https://github.com/RicardoaLima)
+- [Davi Bonetto](https://github.com/davibonetto549)
