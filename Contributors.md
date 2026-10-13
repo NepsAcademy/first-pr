@@ -67,3 +67,4 @@
 - [Ricardo Augusto de Lima](https://github.com/RicardoaLima)
 - [Davi Bonetto](https://github.com/davibonetto549)
 - [Johann Barros Brito](https://github.com/johannbarros-ux)
+- [Heitor Bellei Lima Scorglick](https://github.com/heitorbelleiapplication-spec)
