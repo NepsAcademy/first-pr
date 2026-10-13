@@ -64,3 +64,4 @@
 - [Miguel Oliveira Santos](https://github.com/migueloliveirasantos)
 - [Anthony Valentin Nolasco Santos Silva](https://github.com/Anthony-Valentin)
 - [Matheus Pietro Klein](https://github.com/matheuspklein)
+- [Ricardo Augusto de Lima](https://github.com/RicardoaLima)
