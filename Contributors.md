@@ -69,3 +69,4 @@
 - [Johann Barros Brito](https://github.com/johannbarros-ux)
 - [Heitor Bellei Lima Scoralick](https://github.com/heitorbelleiapplication-spec)
 - [Cauã Prado Monteiro](https://github.com/Kauan-BRL)
+- [Beatriz Graziane Reis](https://github.com/beatrizgrazianereis)
