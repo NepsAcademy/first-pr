@@ -70,4 +70,3 @@
 - [Heitor Bellei Lima Scoralick](https://github.com/heitorbelleiapplication-spec)
 - [Cauã Prado Monteiro](https://github.com/Kauan-BRL)
 - [Beatriz Graziane Reis](https://github.com/beatrizgrazianereis)
-- [Isabel Graziane Reis](https://github.com/isabelgrazianereis)
