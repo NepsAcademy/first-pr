@@ -72,3 +72,4 @@
 - [Beatriz Graziane Reis](https://github.com/beatrizgrazianereis)
 - [Isabel Graziane Reis](https://github.com/isabelgrazianereis)
 - [Guilherme Martins de Magalhães](https://github.com/GuilhermeMartins-GMM)
+- [Sofia de Mello](https://github.com/sosogfm)
