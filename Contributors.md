@@ -73,3 +73,4 @@
 - [Isabel Graziane Reis](https://github.com/isabelgrazianereis)
 - [Guilherme Martins de Magalhães](https://github.com/GuilhermeMartins-GMM)
 - [Sofia de Mello](https://github.com/sosogfm)
+- [Esther Vieira Esteves Lira da Costa](https://github.com/chaepistola)
