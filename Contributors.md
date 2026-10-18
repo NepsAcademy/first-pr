@@ -74,3 +74,4 @@
 - [Guilherme Martins de Magalhães](https://github.com/GuilhermeMartins-GMM)
 - [Sofia de Mello](https://github.com/sosogfm)
 - [Esther Vieira Esteves Lira da Costa](https://github.com/chaepistola)
+- [Ellen de Souza Lessa](https://github.com/Ellen02-2442)
