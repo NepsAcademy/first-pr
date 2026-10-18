@@ -71,5 +71,6 @@
 - [Cauã Prado Monteiro](https://github.com/Kauan-BRL)
 - [Beatriz Graziane Reis](https://github.com/beatrizgrazianereis)
 - [Isabel Graziane Reis](https://github.com/isabelgrazianereis)
+- [Esther Vieira Esteves Lira da Costa](https://github.com/chaepistola)
 - [Guilherme Martins de Magalhães](https://github.com/GuilhermeMartins-GMM)
 - [Sofia de Mello](https://github.com/sosogfm)
