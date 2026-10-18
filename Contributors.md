@@ -75,3 +75,4 @@
 - [Sofia de Mello](https://github.com/sosogfm)
 - [Esther Vieira Esteves Lira da Costa](https://github.com/chaepistola)
 - [Miguel Pergher de Oliveira](https://github.com/miguelpergher)
+- [Ellen de Souza Lessa](https://github.com/Ellen02-2442)
