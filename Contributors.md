@@ -76,3 +76,5 @@
 - [Esther Vieira Esteves Lira da Costa](https://github.com/chaepistola)
 - [Miguel Pergher de Oliveira](https://github.com/miguelpergher)
 - [Ellen de Souza Lessa](https://github.com/Ellen02-2442)
+- [Marcelo Henrique Rocha Filho](https://github.com/Mexpower2010)
+
