@@ -79,3 +79,4 @@
 - [Marcelo Henrique Rocha Filho](https://github.com/Mexpower2010)
 - [Rayssa Gabriela Morais](https://github.com/rayssa-gm)
 - [Brenno Ribeiro Vieira Schnoor](https://github.com/brenno-schnoor)
+- [Ana Beatriz de Sousa Bezerra](https://github.com/beatrizsbezerra1)
